@@ -23,7 +23,7 @@ Lade die Datei FailLimit.py herunter
 Öffne den Ordner, in dem die Datei gespeichert ist
 Rechtsklick → „Im Terminal öffnen“
 Führe folgenden Befehl aus:
-python FailLimit.py
+"python FailLimit.py"
 Warum sollte man Option 2 wählen?
 
 Viele Nutzer entscheiden sich für die zweite Option, obwohl die erste deutlich einfacher ist.
