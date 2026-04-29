@@ -24,6 +24,7 @@ Lade die Datei FailLimit.py herunter
 Rechtsklick → „Im Terminal öffnen“
 Führe folgenden Befehl aus:
 "python FailLimit.py"
+
 Warum sollte man Option 2 wählen?
 
 Viele Nutzer entscheiden sich für die zweite Option, obwohl die erste deutlich einfacher ist.
@@ -34,3 +35,5 @@ Bei einer .exe-Datei kann man den Inhalt nicht direkt einsehen. Das führt bei m
 Die Python-Version hingegen ist vollständig offen einsehbar, da der Code direkt vorliegt. Deshalb wirkt diese Variante für viele transparenter und sicherer.
 
 Ich versichere aber: Die .exe wurde direkt aus FailLimit.py erstellt und enthält exakt denselben Code, lediglich verpackt für eine einfachere Ausführung.
+
+Ich suche gerade für einen Umweg, um es auf dem Handy auszuführen.
