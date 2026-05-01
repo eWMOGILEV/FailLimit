@@ -1,5 +1,5 @@
 **NEU: WEBSITE-VERSION**
-  Sieht supi aus und funktioniert auf Handy
+  Sieht supi aus und funktioniert auf Handy. 
   Musst einfach nur drauf klicken und los gehts!
 
 
