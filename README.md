@@ -1,6 +1,5 @@
 **NEU: WEBSITE-VERSION**
-  Sieht supi aus und funktioniert auf Handy. 
-  Musst einfach nur drauf klicken und los gehts!
+  [Drücke Hier!](https://ewmogilev.github.io/FailLimit/)
 
 
 Nutzung (nicht website) (nur auf PC)
