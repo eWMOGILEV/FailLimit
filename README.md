@@ -1,4 +1,9 @@
-Nutzung (nur auf PC)
+**NEU: WEBSITE-VERSION**
+  Sieht supi aus und funktioniert auf Handy
+  Musst einfach nur drauf klicken und los gehts!
+
+
+Nutzung (nicht website) (nur auf PC)
 
 Es gibt aktuell zwei Möglichkeiten, das Programm zu verwenden:
 
